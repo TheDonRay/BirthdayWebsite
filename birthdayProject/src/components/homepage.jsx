@@ -48,7 +48,7 @@ export default function Homepage() {
   } 
 
   function letter() { 
-    window.open('/deepsletter.pdf', '_blank'); 
+    window.open('/deepletter.pdf', '_blank'); 
   }
 
   return (
