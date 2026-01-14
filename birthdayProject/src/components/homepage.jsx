@@ -111,7 +111,7 @@ export default function Homepage() {
   }
 
   function letter() {
-    window.open("/deepletter.pdf", "_blank");
+    window.open("/letter.pdf", "_blank");
   }
 
   return (
